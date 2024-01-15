@@ -1,4 +1,4 @@
-package vann_jok.springboot.models;
+package com.example.ServerApi.models;
 
 import jakarta.persistence.*;
 
